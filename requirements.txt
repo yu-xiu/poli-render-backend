@@ -1,13 +1,16 @@
-
 pip>=24.2
 setuptools>=70.0
 wheel
+
 Flask==3.0.3
+Flask-Cors==4.0.0
 gunicorn==22.0.0
-numpy>=1.23,<1.27
-requests==2.31.0
+
+requests
 gdown
+
 tensorflow-cpu>=2.16,<2.21
+
 
 
 
